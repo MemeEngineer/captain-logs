@@ -1,0 +1,1 @@
+`npm i express dotenv mongoose react react-dom jsx-view-engine method-override`
